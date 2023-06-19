@@ -3,7 +3,7 @@
 <p align="center">
     <b>Bem vindo!</b><br><br>
     <i>
-       Olá! Meu nome é Pedro e sou um entusiasta da programação. Sou formado em Ciência e Tecnologia e atualmente estou cursando Engenharia da Computação. Estou apaixonado pelo mundo da tecnologia e sempre em busca de novas oportunidades para expandir meu conhecimento e aprimorar minhas habilidades.<br>
+       Olá! Meu nome é Pedro e sou um entusiasta da programação. Sou formado em Ciência e Tecnologia e atualmente estou cursando Engenharia da Computação. Sou apaixonado pelo mundo da tecnologia e sempre em busca de novas oportunidades para expandir meu conhecimento e aprimorar minhas habilidades.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/pedro-henrique-bezerra-fernandes-40275b22b/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
