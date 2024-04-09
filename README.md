@@ -1,9 +1,9 @@
 <h1 align="center">Hi, guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Bem vindo!</b><br><br>
+    <b>Welcome!</b><br><br>
     <i>
-       Olá! Meu nome é Pedro e sou um entusiasta da programação. Sou formado em Ciência e Tecnologia e atualmente estou cursando Engenharia da Computação. Sou apaixonado pelo mundo da tecnologia e sempre em busca de novas oportunidades para expandir meu conhecimento e aprimorar minhas habilidades.<br>
+       Hello! My name is Pedro and I'm a programming enthusiast. I have a degree in Science and Technology and I'm currently studying Computer Engineering. I'm passionate about the world of technology and always seeking new opportunities to expand my knowledge and improve my skills.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/pedro-henrique-bezerra-fernandes-40275b22b/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
