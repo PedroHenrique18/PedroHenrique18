@@ -11,14 +11,12 @@
 </p>
 
 ### Languages
-[![](https://skillicons.dev/icons?i=python,java,cpp,javascript&perline=6)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,java,cpp,javascript,php&perline=6)](https://skillicons.dev)
 
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/PedroHenrique18)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/PedroHenrique18)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/PedroHenrique18)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/PedroHenrique18)
+[![](https://skillicons.dev/icons?i=aws,react,springboot,mysql,node,django,typescript,html,css&perline=6)](https://skillicons.dev)
+
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/PedroHenrique18)
