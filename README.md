@@ -11,7 +11,7 @@
 </p>
 
 ### Languages
-[![](https://skillicons.dev/icons?i=python,java,cpp,javascript,sql&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,java,cpp,javascript&perline=6)](https://skillicons.dev)
 
 
 ### Technologies & Frameworks
