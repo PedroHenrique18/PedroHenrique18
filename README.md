@@ -19,8 +19,7 @@
 
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/PedroHenrique18)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/PedroHenrique18)
+[![](https://skillicons.dev/icons?i=windows,linux&perline=6)](https://skillicons.dev)
 
 <details>
 <p align="center">
