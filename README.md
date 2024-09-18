@@ -15,7 +15,7 @@
 
 
 ### Technologies & Frameworks
-[![](https://skillicons.dev/icons?i=aws,react,springboot,mysql,node,django,typescript,html,css&perline=6)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=aws,react,spring,mysql,nodejs,django,typescript,html,css&perline=6)](https://skillicons.dev)
 
 
 ### OS
